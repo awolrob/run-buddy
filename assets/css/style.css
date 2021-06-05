@@ -293,7 +293,7 @@ section {
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
-  border-bottom: 1px solid var(--tertiary-color);
+  /* border-bottom: 1px solid var(--tertiary-color); */
   display: flex;
   flex-wrap: wrap;
   align-items: center;
